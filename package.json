@@ -1,0 +1,15 @@
+{
+  "name": "redux-form6",
+  "version": "6.5.0",
+  "description": "A copy of dist files of redux-form, this is for upgrading redux-form",
+  "main": "redux-form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gecgithub01.walmart.com:v0n000p/redux-form6.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
